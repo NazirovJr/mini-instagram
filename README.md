@@ -56,11 +56,12 @@ Technologies that were used in this application
 - [React Native](https://reactnative.dev/)
 - [Expo](https://expo.io/)
 - [Apollo Client](https://www.apollographql.com/docs/react/) [GraphQL Client]
-- [React Native](https://reactnative.dev/) 
-- [Easy-Peasy Redux](https://github.com/ctrlplusb/easy-peasy) [Cool Redux Abstraction]
+- [Redux](https://redux.js.org/) 
 - [UI-Kitten](https://akveo.github.io/react-native-ui-kitten/) [UI Component Library]
 - [Styled Components](https://styled-components.com/) [Styling Solutioon]
 - [React Navigation](https://reactnavigation.org/)
+- [Redux thunk](https://redux.js.org/api/applymiddleware)
+- [Firebase](https://firebase.google.com/)
 
 ## Build it yourself
 
