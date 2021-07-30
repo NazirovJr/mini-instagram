@@ -62,7 +62,7 @@ Technologies that were used in this application
 - [Styled Components](https://styled-components.com/) [Styling Solutioon]
 - [React Navigation](https://reactnavigation.org/)
 
-##  Build it yourself
+## Build it yourself
 
 #### Requirements
 
