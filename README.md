@@ -6,28 +6,6 @@
   A social photo sharing app, built with React Native (Instagram Clone)
 </h3>
 <p align="center">
-<img alt="Mockup" src="NativeGram.png">
-</p>
-<p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/chamatt/NativeGram?color=7159c1">
-
-  <a href="https://www.linkedin.com/in/matheus-vicente-d-190001b2/" target="_blank" rel="noopener noreferrer">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-chamatt-7159c1">
-  </a>
-
-  <a href="https://github.com/chamatt/NativeGram/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/chamatt/NativeGram?color=7159c1">
-  </a>
-
-  <a href="https://github.com/chamatt/NativeGram/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/chamatt/NativeGram?color=7159c1">
-  </a>
-
-  <img alt="GitHub" src="https://img.shields.io/github/license/chamatt/chamatt/NativeGram?color=7159c1">
-</p>
-
-
-<p align="center">
   <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
