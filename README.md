@@ -1,83 +1,115 @@
-# mini-instagram
+<h1 align="center">
+  NazirovJr
+</h1>
 
-### Program
-The program is like Instagram but it is not working like Instagram it has some functionalities of Instagram. At the moment of seeing the code probably,
-the program will not be working in 100%. Because I am working in this program with firebase and firebase has some limitations. After some day firebase will ban access for my program to the server for this reason program will not show you videos, photos of things that should store and work in the server and cloud.
-The program was created with expo and react-native in base. You can log in and registration, took the photo and post things, you can follow to other people also you can see their post and profile. This program is mini-Instagram.
+<h3 align="center">
+  A social photo sharing app, built with React Native (Instagram Clone)
+</h3>
+<p align="center">
+<img alt="Mockup" src="NativeGram.png">
+</p>
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/chamatt/NativeGram?color=7159c1">
 
-### Author 
-Nazirov Ilhomjon <naziroffjr@gmail.com>
+  <a href="https://www.linkedin.com/in/matheus-vicente-d-190001b2/" target="_blank" rel="noopener noreferrer">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-chamatt-7159c1">
+  </a>
+
+  <a href="https://github.com/chamatt/NativeGram/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/chamatt/NativeGram?color=7159c1">
+  </a>
+
+  <a href="https://github.com/chamatt/NativeGram/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/chamatt/NativeGram?color=7159c1">
+  </a>
+
+  <img alt="GitHub" src="https://img.shields.io/github/license/chamatt/chamatt/NativeGram?color=7159c1">
+</p>
 
 
-# Getting Started with Create React App
+<p align="center">
+  <a href="#-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-build-it-yourself">Build it yourself</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 📔 About the project
 
-## Available Scripts
+A Full Stack Photo-Sharing App, built with React Native + Expo 
 
-In the project directory, you can run:
+#### Features:
 
-### `npm start`
+[✔] Authentication (Login/Register)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[✔] User Profiles
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+[✔] Image Upload from Gallery
 
-### `npm test`
+[✔] Take pictures with your phone camera
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+[✔] Posts
 
-### `npm run build`
+[✔] Posts with multiple images
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+[✔] Comments
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[✔] Likes
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[✔] Follower/Following
 
-### `npm run eject`
+[✔] A Post Feed with your friend's newest posts
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+[✔] Global User Search
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 📸 Screenshots
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+A few screenshots from parts of the app:
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+| Login | Feed  | Camera | Profile | 
+|-------|-------|--------|---------|
+| ![](screenshots/login.png) | ![](screenshots/feed.png) | ![](screenshots/camera.png)  | ![](screenshots/profile.png)   | 
 
-## Learn More
+## 🚀 Technologies
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Technologies that were used in this application
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [Node.js](https://nodejs.org/en/)
+- [React Native](https://reactnative.dev/)
+- [Expo](https://expo.io/)
+- [Apollo Client](https://www.apollographql.com/docs/react/) [GraphQL Client]
+- [React Native](https://reactnative.dev/) 
+- [Easy-Peasy Redux](https://github.com/ctrlplusb/easy-peasy) [Cool Redux Abstraction]
+- [UI-Kitten](https://akveo.github.io/react-native-ui-kitten/) [UI Component Library]
+- [Styled Components](https://styled-components.com/) [Styling Solutioon]
+- [React Navigation](https://reactnavigation.org/)
 
-### Code Splitting
+##  Build it yourself
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+#### Requirements
 
-### Analyzing the Bundle Size
+- [Node.js](https://nodejs.org/en/)
+- [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+**Clone the project and access the folder**
 
-### Making a Progressive Web App
+```bash
+$ git clone https: github.com/NazirovJr/mini-instagram
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+**Follow the steps below**
 
-### Advanced Configuration
+```bash
+# Install the dependencies
+$ yarn
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+# Run in dev mode
+$ yarn start
 
-### Deployment
+# The Expo metro bundler will open and let you pick
+# how you want to open the app (Android Emulator, IOS Simulator, Web)
+# Or you can open directly from your android phone with Expo app
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-
+# Well done, project is started!
+```
 
